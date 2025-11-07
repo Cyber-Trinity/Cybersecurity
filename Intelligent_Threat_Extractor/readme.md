@@ -85,7 +85,7 @@ crime-in-los-angeles/
 
 ## 📑 Report
 
-A detailed project report is included as [Report_Intelligent_Threat_Extractor.pdf](https://github.com/Cyber-Trinity/Data-Analysis/blob/main/Crime%20in%20Los%20Angeles/Report_Crime_Analysis.pdf)
+A detailed project report is included as [Report_Intelligent_Threat_Extractor.pdf](https://github.com/Cyber-Trinity/Cybersecurity/blob/main/Intelligent_Threat_Extractor/Report_Intelligent_Threat_Extractor.pdf)
 It contains methodology, extraction workflows, and key insight.
 
 ---
