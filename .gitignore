@@ -1,0 +1,23 @@
+# Exceptions
+!data/sample.csv
+
+# Ignore specific file types
+*.csv
+*.docx
+
+# Ignore specific files
+Sample_requirements.txt
+gitignore.txt
+
+# Ignore specific folders
+data/
+0Sample/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+__pycache__/
+*.log
